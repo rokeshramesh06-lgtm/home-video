@@ -1,0 +1,85 @@
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_001.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_002.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_003.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_004.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_005.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_006.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_007.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_008.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_009.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_010.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_011.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_012.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_013.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_014.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_015.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_016.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_017.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_018.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_019.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_020.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_021.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_022.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_023.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_024.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_025.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_026.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_027.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_028.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_029.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_030.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_031.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_032.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_033.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_034.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_035.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_036.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_037.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_038.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_039.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_040.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_041.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_042.webp'
+duration 2
+file 'C:/Users/rokes/OneDrive/Desktop/home vedio/staged_full/frame_042.webp'
