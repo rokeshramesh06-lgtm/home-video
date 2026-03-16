@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Furnished House Concepts</title>
+    <style>
+      :root {
+        --bg: #f4efe7;
+        --card: #fffaf4;
+        --text: #2f251d;
+        --muted: #6e5d4f;
+        --line: #e3d6c8;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        color: var(--text);
+        background: linear-gradient(180deg, #efe5d7 0%, var(--bg) 100%);
+      }
+
+      main {
+        width: min(1180px, calc(100% - 24px));
+        margin: 0 auto;
+        padding: 28px 0 40px;
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: clamp(2rem, 4vw, 3.2rem);
+      }
+
+      p {
+        margin: 0 0 18px;
+        color: var(--muted);
+        line-height: 1.6;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 16px;
+      }
+
+      .card {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 20px 40px rgba(61, 40, 20, 0.08);
+      }
+
+      img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+
+      .label {
+        padding: 12px 14px 14px;
+        font-size: 0.98rem;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Warm Furnished House Concepts</h1>
+      <p>Finished-room previews with warm wall colors, lighter surfaces, and full furniture concepts.</p>
+
+      <section class="grid">
+        <article class="card"><img src="./01_entry_exterior.jpg" alt="Entry exterior"><div class="label">Entry exterior</div></article>
+        <article class="card"><img src="./02_stair_lobby.jpg" alt="Stair lobby"><div class="label">Stair lobby</div></article>
+        <article class="card"><img src="./03_upper_hallway.jpg" alt="Upper hallway"><div class="label">Upper hallway</div></article>
+        <article class="card"><img src="./04_bedroom.jpg" alt="Bedroom"><div class="label">Bedroom</div></article>
+        <article class="card"><img src="./05_lounge.jpg" alt="Lounge"><div class="label">Lounge</div></article>
+        <article class="card"><img src="./06_guest_room.jpg" alt="Guest room"><div class="label">Guest room</div></article>
+        <article class="card"><img src="./07_passage.jpg" alt="Passage"><div class="label">Passage</div></article>
+        <article class="card"><img src="./08_secondary_room.jpg" alt="Secondary room"><div class="label">Secondary room</div></article>
+        <article class="card"><img src="./09_upper_lounge.jpg" alt="Upper lounge"><div class="label">Upper lounge</div></article>
+        <article class="card"><img src="./10_terrace.jpg" alt="Terrace"><div class="label">Terrace</div></article>
+      </section>
+    </main>
+  </body>
+</html>
